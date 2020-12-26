@@ -53,6 +53,10 @@ numbersList.list.each((item, i)=>{
 		backgroundColor: item.color,
 		color: item.textColor
 	});
+
+	num.click(()=>sayEn(item.word));
+	numName.click(()=>sayEn(item.word));
+	colorName.click(()=>sayEn(item.color));
 });
 
 
@@ -196,7 +200,7 @@ function sayEn(text) {
 	utterance.text = text;
 	utterance.volume = 10;
 	utterance.pitch = 1;
-	utterance.rate = 0.3;
+	utterance.rate = 0.5;
 
 	utterance.voice = speechSynthesis.getVoices().filter(function(voice) {
 		return voice.name == 'Google UK English Male';
