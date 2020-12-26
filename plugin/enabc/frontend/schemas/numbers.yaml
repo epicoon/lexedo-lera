@@ -1,0 +1,41 @@
+list:
+  - word: one
+    number: 1
+    color: red
+    textColor: white
+  - word: two
+    number: 2
+    color: orange
+    textColor: white
+  - word: three
+    number: 3
+    color: yellow
+    textColor: green
+  - word: four
+    number: 4
+    color: green
+    textColor: white
+  - word: five
+    number: 5
+    color: blue
+    textColor: white
+  - word: six
+    number: 6
+    color: purple
+    textColor: white
+  - word: seven
+    number: 7
+    color: pink
+    textColor: purple
+  - word: eight
+    number: 8
+    color: brown
+    textColor: white
+  - word: nine
+    number: 9
+    color: black
+    textColor: white
+  - word: ten
+    number: 10
+    color: white
+    textColor: black

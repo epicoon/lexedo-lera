@@ -1,0 +1,16 @@
+name: lexedo/lera
+
+autoload:
+  psr-4:
+    lexedo\lera\: ''
+
+service:
+  class: lexedo\lera\Service
+
+  routes:
+    letters: {plugin: letters}
+    bricks: {plugin: bricks}
+    enabc: {plugin: enabc}
+
+  plugins: plugin
+  models: model

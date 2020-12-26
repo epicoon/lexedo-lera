@@ -1,0 +1,121 @@
+list:
+  - [apple, яблоко, A.png]
+  - [alligator, аллигатор, Alligator.png]
+  - [ant, муравей, Ant.png]
+
+  - [boll, мяч, B.png]
+  - [banana, банан, Banana.png]
+  - [bear, медведь, Bear.png]
+  - [bed, кровать, Bed.png]
+  - [bird, птица, Bird.png]
+
+  - [cat, кошка, C.png]
+  - [car, машина, Car.png]
+  - [computer, компьютер, Computer.png]
+  - [cup, кружка, Cup.png]
+
+  - [dog, собака, D.png]
+  - [doll, кукла, Doll.png]
+  - [duck, утка, Duck.png]
+  - [desk, стол, Desk.png]
+
+  - [egg, яйцо, E.png]
+  - [elefant, слон, Elefant.png]
+
+  - [frog, лягушка, F.png]
+  - [farm, ферма, Farm.jpg]
+  - [fish, рыба, Fish.png]
+  - [fork, вилка, Fork.png]
+
+  - [giraffe, жираф, G.png]
+  - [gift, подарок, Gift.png]
+  - [girl, девочка, Girl.png]
+  - [goat, козёл, Goat.png]
+  - [gorilla, горилла, Gorilla.png]
+
+  - [hat, шляпа, H.png]
+  - [horse, лошадь, Horse.png]
+  - [hot dog, хотдог, Hotdog.png]
+  - [house, дом, House.png]
+
+  - [icecream, мороженое, I.png]
+  - [igloo, иглу, Igloo.png]
+  - [iguana, игуана, Iguana.png]
+
+  - [jam, варенье, J.png]
+  - [jacket, куртка, Jacket.png]
+  - [jet, самолёт, Jet.png]
+  - [juice, сок, Juice.png]
+
+  - [key, ключ, K.png]
+  - [kangaroo, кенгуру, Kangaroo.png]
+  - [king, король, King.png]
+  - [kite, воздушный змей, Kite.png]
+
+  - [lamp, лампа, L.png]
+  - [leaf, лист, Leaf.png]
+  - [lemon, лимон, Lemon.png]
+  - [lion, лев, Lion.png]
+
+  - [monkey, обезьяна, M.png]
+  - [milk, молоко, Milk.png]
+  - [money, деньги, Money.png]
+  - [mouse, мышь, Mouse.png]
+
+  - [nest, гнездо, N.png]
+  - [net, сеть, Net.png]
+  - [nose, нос, Nose.png]
+  - [nut, орех, Nut.png]
+
+  - [oak, дуб, O.png]
+  - [octopus, осминог, Octopus.png]
+  - [olive, оливки, Olive.png]
+  - [ostrich, страус, Ostrich.png]
+  - [ox, бык, Ox.png]
+
+  - [parrot, попугай, P.png]
+  - [panda, панда, Panda.png]
+  - [peach, персик, Peach.png]
+  - [pen, ручка, Pen.png]
+  - [pineapple, ананас, Pineapple.png]
+
+  - [queen, королева, Q.png]
+  - [question, вопрос, Question.png]
+  - [quiz, викторина, Quiz.png]
+
+  - [rat, крыса, R.png]
+  - [rabbit, кролик, Rabbit.png]
+  - [rice, рис, Rice.png]
+  - [robot, робот, Robot.png]
+  - [rose, роза, Rose.png]
+
+  - [star, звезда, S.png]
+  - [seal, тюлень, Seal.png]
+  - [shoes, ботинки, Shoes.png]
+  - [soap, мыло, Soap.png]
+  - [socks, носки, Socks.png]
+  - [sun, солнце, Sun.png]
+
+  - [toy, игрушка, T.png]
+  - [teacher, учитель, Teacher.png]
+  - [tent, палатка, Tent.png]
+  - [tiger, тигр, Tiger.png]
+  - [trousers, штаны, Trousers.png]
+  - [t-shirt, футболка, Tshirt.png]
+
+  - [umbrella, зонт, U.png]
+  - [uncle, дядя, Uncle.png]
+  - [up, вверх, Up.png]
+
+  - [volleyball, волейбол, V.png]
+  - [van, фургон, Van.png]
+  - [vest, жилет, Vest.png]
+  - [vet, ветеринар, Vet.png]
+
+  - [wolf, волк, W.png]
+
+  - [x-ray, рентген, X.png]
+
+  - [yacht, яхта, Y.png]
+
+  - [zebra, зебра, Z.png]
