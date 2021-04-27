@@ -11,6 +11,7 @@ service:
     letters: {plugin: letters}
     bricks: {plugin: bricks}
     enabc: {plugin: enabc}
+    bank: {plugin: bank}
 
   plugins: plugin
   models: model

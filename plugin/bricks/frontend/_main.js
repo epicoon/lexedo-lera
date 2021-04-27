@@ -60,7 +60,6 @@ grid.add(lx.Input, {field:'color'});
 
 
 
-/*
 // Пожаротушение
 var truck = new lx.Box({
 	geom: [80, 40, 5, 7]

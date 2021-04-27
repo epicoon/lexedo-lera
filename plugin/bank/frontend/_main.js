@@ -107,7 +107,6 @@ var step = 20;
 class Mover extends lx.Timer {
 	constructor(owner) {
 		super();
-		this.counterOn = false;
 		this.periodDuration = 10;
 		this.onCycleEnds(this.step);
 
