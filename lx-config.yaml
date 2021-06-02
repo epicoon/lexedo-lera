@@ -12,6 +12,7 @@ service:
     bricks: {plugin: bricks}
     enabc: {plugin: enabc}
     bank: {plugin: bank}
+    solar: {plugin: solar}
 
   plugins: plugin
   models: model
